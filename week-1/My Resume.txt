@@ -1,0 +1,138 @@
+Avas Bajracharya
+
+
+avasbajracharya9@gmail.com
+4239302290
+Johnson City, Tennessee'
+https://www.avasbajracharya.com.np/
+https://www.linkedin.com/in/avas-bajracharya-640357200/
+https://github.com/Avas77
+
+
+
+------------------------
+Motivated Software Engineer with a background in front-end and back-end development, now transitioning into AI/ML engineering. <b>Seeking to leverage my expertise in software development and passion for AI/ML technologies in an intern position </b>at a forward-thinking company, contributing to innovative solutions while applying responsible AI practices.
+
+
+Education
+------------------------
+Masters in Computer Science(AI and Machine Learning Concentration)
+East Tennessee State University
+08/2024 - Present
+Courses
+- Artificial Intelligence 
+- Natural Language Processing(NLP) 
+
+
+
+
+
+Work Experience
+------------------------
+Graduate Assistant
+East Tennessee State University
+08/2024 - Present
+Johnson City, Tennessee
+Achievements/Tasks
+- Taught a class of students in the CSCI 1100 course, focusing on introductory Python programming. 
+- Design and assign lab exercises to reinforce core programming concepts, ensuring students gain hands-on experience. 
+- Grade lab assignments, providing feedback to help students improve their performance. 
+- Regularly interact with students and faculty, addressing questions, guiding learning, and facilitating communication. 
+
+
+
+Software Development Engineer(SDE2)
+Renegade Insurance
+11/2021 - 07/2024
+Kathmandu, Nepal
+Achievements/Tasks
+- Led the development of a dynamic dashboard application for insurance agents, simplifying the process of tracking leads and retrieving quotes from multiple carriers in real-time. 
+- Conducted comprehensive code reviews, identified and resolved bugs, and optimized applications for enhanced performance and scalability. 
+- Utilized modern technologies such as  <b>React</b> ,  <b>Chakra UI</b> ,  <b>TypeScript</b> ,  <b>Next.js</b> , and  <b>Monorepo</b> , aligning with efficient and scalable software architecture. 
+- Collaborated with designers, Product Managers (PMs), Product Owners, and stakeholders to identify key business needs, translating them into actionable sprint items. 
+
+
+
+Software Engineer
+Treeleaf Technologies Pvt. Ltd
+03/2021 - 07/2021
+Kathmandu, Nepal
+Achievements/Tasks
+- Engineered custom applications, including features like ticket creation, live chat, analytics, and chatbot integration, delivering seamless user experiences. 
+- Implemented user activity tracking and data visualization using bar charts and pie charts to offer actionable insights to clients. 
+- Managed source control using  <b>Git</b>  and contributed to project documentation, ensuring smooth team collaboration. 
+- Developed responsive web interfaces from design wireframes, using  <b>React.js</b>  and  <b>Ant Design</b> , with a focus on performance and accessibility. 
+
+
+
+
+
+
+Refrences
+------------------------
+Organization Name
+
+
+
+
+
+Skills
+------------------------
+-HTML
+-CSS
+-Javascript
+-React
+-Next.js
+-GIT
+-Python
+-scikit-learn
+-Figma
+-Docker
+-Typescript
+-Tailwind CSS
+-Express.js
+-Nest.js
+-Data Structures and Algorithms
+
+
+
+Projects
+------------------------
+AgencyHeight
+- Live demo at https://www.agencyheight.com/ 
+
+
+Hobnob
+- Live demo at https://joinhobnob.com/ 
+
+
+Anydone
+- Live demo at https://www.anydone.com/ 
+
+
+LamaAdventure
+- Live demo at https://www.lamaadventure.com.np/ 
+
+
+COVID-19 Info and Tracker App(Personal)
+- Live demo at https://fightcovid-91c55.web.app/ 
+
+
+Nike Redesigned(Personal)
+- Live demo at https://nike-project-plum.vercel.app/ 
+
+
+
+
+
+CERtificates
+------------------------
+Total Typescript Course by Matt Pocock, April 2023
+
+
+Testing Javascript Course by Kent C. Dodds, August 2022
+
+
+
+
+
